@@ -89,10 +89,5 @@ Want to contribute? Great! Here’s how:
 
 ---
 
-## 📜 License
 
-This project is licensed under the MIT License — you are free to use and share it.
 
----
-
-⭐ If you found this helpful, don’t forget to give it a star on GitHub!
