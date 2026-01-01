@@ -18,11 +18,11 @@
 
      hit any key to continue+
 
-     AGENTIC • TOOL-CALLING • AI SYSTEMS
-Hi, I'm Bhim Mondal
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-I like building LLM-powered systems that actually do things — especially around tool calling, agents, and end-to-end execution, not just chat.
+My name is Martin Heinz and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
+    
 
 
 
