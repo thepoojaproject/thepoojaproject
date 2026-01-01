@@ -16,7 +16,12 @@
                         |__>            || ||      || ||
 
 
-     hit any key to continue
+     hit any key to continue+
+
+     AGENTIC • TOOL-CALLING • AI SYSTEMS
+Hi, I'm Bhim Mondal
+
+I like building LLM-powered systems that actually do things — especially around tool calling, agents, and end-to-end execution, not just chat.
 
 
 
