@@ -1,93 +1,52 @@
-# 🌟 My First Project
+<h1 align="center">Hey 👋What's Up?</h1>
 
-> A simple and beginner-friendly project to help you get started with GitHub.
+###
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
 
-## 📋 Table of Contents
+###
 
-* [About](#-about)
-* [Features](#-features)
-* [Getting Started](#-getting-started)
-* [Usage](#-usage)
-* [Contributing](#-contributing)
-* [License](#-license)
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
 
----
+###
 
-## 🔍 About
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-This project is a starting point for beginners to learn how to use GitHub and create their first repository. It’s simple, easy to understand, and ready to customize.
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
-## ✨ Features
-
-* ✅ Beginner-friendly structure
-* 📁 Easy to edit and update
-* 💡 Helpful comments to guide you
-* 🌐 Works on all platforms
-
----
-
-## 🚀 Getting Started
-
-Follow these steps to set up the project on your computer:
-
-1. **Fork the Repository**
-   Click the **Fork** button at the top of this page to make a copy of this repository in your own GitHub account.
-
-2. **Clone Your Fork**
-   Open a terminal (or Git Bash) and run:
-
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   ```
-
-3. **Open the Folder**
-   Go into the project folder:
-
-   ```bash
-   cd <repo-name>
-   ```
-
-4. **Make Changes**
-   Edit files with your favorite code editor (like VS Code or Notepad++).
-
-5. **Commit Your Changes**
-   Save your changes with:
-
-   ```bash
-   git add .
-   git commit -m "My first commit"
-   git push
-   ```
-
----
-
-## ▶️ Usage
-
-You can customize this README file by editing it directly. Replace the text with your own project details. For example:
-
-* Project name
-* Description
-* Features
-* Screenshots
-
-This is a great way to practice writing documentation.
-
----
-
-## 🤝 Contributing
-
-Want to contribute? Great! Here’s how:
-
-1. Fork this repository.
-2. Create a new branch: `git checkout -b my-new-feature`.
-3. Make your changes and commit them.
-4. Push to your fork and open a pull request.
-
----
-
-
-
+###
