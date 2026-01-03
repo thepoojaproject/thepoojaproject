@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/rzashakeri/rzashakeri/main/intro.gif" alt="👋 Hi there! I'm reza" title="👋 Hi there! I'm reza"/>
-<div align="justify">
+<a href="https://ibb.co/h1T4BFqd"><img src="https://i.ibb.co/wr2PShvQ/myself.jpg" alt="myself" border="0"></a>
 
 for freelance work? do reach, [email](mailto:askbhimmondal@gmail.com) :)
 
