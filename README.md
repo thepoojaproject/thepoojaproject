@@ -1,4 +1,4 @@
-<a href="https://ibb.co/h1T4BFqd"><img src="https://i.ibb.co/wr2PShvQ/myself.jpg" alt="myself" border="0"></a>
+<a href="https://gifyu.com/image/bhvYl"><img src="https://s12.gifyu.com/images/bhvYl.jpg" alt="My files as" border="0" /></a>
 
 for freelance work? do reach, [email](mailto:askbhimmondal@gmail.com) :)
 
