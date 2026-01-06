@@ -24,5 +24,12 @@ Until then, here's my favorite (totally made up) Einstein quote:
 |`S`| | | | | |`M`| | |[📸](https://www.instagram.com/bhim_mondal_/)| |
 |`M`| | | | | | | | | | |
 
+
+
+- 🛠 Contributing to [ PulseRadio ](https://thepoojaproject.github.io/PulseRadio/) & [ Collision ](https://github.com/nunomaduro/collision)
+- 🔥 Working with the [ TALLStack ](https://tallstack.dev/)
+
+
+
 - 🛠 Contributing to [ Pest ](https://github.com/pestphp/pest) & [ Collision ](https://github.com/nunomaduro/collision)
 - 🔥 Working with the [ TALLStack ](https://tallstack.dev/)
