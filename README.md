@@ -19,7 +19,7 @@ Until then, here's my favorite (totally made up) Einstein quote:
 |`A`| | |`O`| | | | | | | |
 |`L`|`I`|`N`|`G`|`U`|`I`|`S`|`T`|`I`|`C`| |
 |`I`| | |`Y`| | |`E`| | | | |
-|`S`| | | | | |`M`| | |[📸](https://www.instagram.com/alexmartinfr/)| |
+|`S`| | | | | |`M`| | |[📸](https://www.instagram.com/bhim_mondal_/)| |
 |`M`| | | | | | | | | | |
 
 - 🛠 Contributing to [ Pest ](https://github.com/pestphp/pest) & [ Collision ](https://github.com/nunomaduro/collision)
