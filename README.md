@@ -26,7 +26,7 @@ Until then, here's my favorite (totally made up) Einstein quote:
 
 
 
-- 🛠 Contributing to [ PulseRadio ](https://thepoojaproject.github.io/PulseRadio/) & [ Collision ](https://github.com/nunomaduro/collision)
+- 🛠 Contributing to [ PulseRadio ](https://thepoojaproject.github.io/PulseRadio/) & [ Stopclock ](https://github.com/nunomaduro/collision)
 - 🔥 Working with the [ TALLStack ](https://tallstack.dev/)
 
 
