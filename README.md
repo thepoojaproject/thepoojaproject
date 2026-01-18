@@ -2,7 +2,7 @@
 
 
 
-I'm Bhim Mondal,  Devsigner.
+I'm Bhim Mondal,  Designer.
 
 Reach me on [ instagram ](https://instagram.com/bhim_mondal_) for advice on improving your projects' UX, design & copy 👋
 
