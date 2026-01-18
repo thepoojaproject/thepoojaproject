@@ -9,7 +9,7 @@ Reach me on [ instagram ](https://instagram.com/bhim_mondal_) for advice on impr
 Until then, here's my favorite (totally made up) Einstein quote:
 « Colors, shapes and words are the runes of our modern world. Arranged in certain ways, they can help our creations shine through the noise! »
 
-|A|r|m|e|e|n||I||💚|u|
+|P|O|O|J|A|||I||💚|u|
 | - | - | - | - | - | - | - | - | - | - | - |
 | | | |`P`| | | | | | |`W`|
 | |`D`|`E`|`S`|`I`|`G`|`N`| | | |`H`|
